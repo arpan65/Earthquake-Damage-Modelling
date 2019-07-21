@@ -1,6 +1,6 @@
 # Earthquake-Damage-Modelling
 A case study  on how AI can help faster recovery from earthquake damages.The case study is modeled over Gorkha earthquake Nepal.Using the structural,geographical and legal data our task is to predict the severity of damage.                       
-Data Scourse: https://eq2015.npc.gov.np/                                                                              
+Data Source: https://eq2015.npc.gov.np/                                                                              
 Project Structure :                                                                       
 This case study is divided in to following files/folders:
 
